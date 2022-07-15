@@ -1,2 +1,2 @@
 Hi, I’m @suryyaadipr
-I am majoring in software enginering
+majoring in software enginering
