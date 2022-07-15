@@ -1,2 +1,2 @@
--Hi, I’m @suryyaadipr
-I am student majoring in software enginering
+Hi, I’m @suryyaadipr
+I am majoring in software enginering
